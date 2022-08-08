@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109437933121",
+    "project_id": "tema-3cd78",
+    "storage_bucket": "tema-3cd78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109437933121:android:bfb90e77db31d34182d8c0",
+        "android_client_info": {
+          "package_name": "com.example.tema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109437933121-bee271sgh981ktr571p2rl2fukcq1b0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2CGH7V4T06Zz_3L_wr_YQbaDjqhODCJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109437933121-bee271sgh981ktr571p2rl2fukcq1b0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
